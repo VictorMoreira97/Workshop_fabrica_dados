@@ -1,0 +1,63 @@
+1 - Você:
+a. Lê todos os dias
+b. Lê mais de um dia na semana, mas não todos os dias
+c. Lê uma vez por semana
+d. Lê ao menos uma vez por mês
+e. Lê menos de uma vez por mês
+
+2 - Para você, ler é:
+a. chato e perda de tempo
+b. importante, mas é chato
+c. importante e pode ser divertido
+d. uma forma de lazer
+
+3 - Ler pode ajudar a aumentar sua capacidade intelectual
+a. SIM
+b. NÃO
+c. Depende da leitura
+
+4 - Se você pode acessar o conteúdo de outra maneira (filme, documentário, podcast, YouTube, etc) você deixa de ler sobre o assunto?
+a. Sim, pois é financeiramente mais acessível
+b. Sim, pois é mais rápido e mais direto ao ponto
+c. Não, mas utilizo esses meios como forma de me introduzir no assunto e uso livros para me aprofundar
+d. Não, mas essas meios podem agregar conteúdo aos livros
+e. Não, pois considero esses meios formas superficiais de adquirir conhecimento
+
+5 - Se você sabe que um filme é baseado em um livro, você prefere:
+a. Ler o livro primeiro e depois vê o filme, pois é quase certo que o livro é melhor que o filme
+b. Apenas ler o livro, pois prefiro ler do que assistir filme
+c. Apenas ver o filme, pois não gosto de ler 
+d. Ver o filme primeiro, pois é financeiramente mais acessível, e ler o livro quando possível
+e. Ver o filme primeiro, pois é mais rápido, pois não tenho tempo de ler livros
+
+6 - Você acredita que filmes baseados em livros aumentam sua vontade de ler mais?
+a. Sempre
+b. Às vezes
+c. Raramente
+d. Nunca
+
+7 - Você já começou a ler um livro e não terminou:
+a. Sim, pois era chato e não era obrigatório
+b. Sim, pois fiquei sem tempo de continuar
+c. Sim, mas ainda pretendo terminá-lo
+d. Não, nunca faço isso
+e. Não, mas só leio coisas por obrigação
+
+8 - Sobre aúdio livros, você tem:
+a. opnião positiva, pois me consentro melhor no conteúdo ouvindo do que lendo
+b. opninão postiva, embora ele não substituam o livro escrito
+c. opnião neutra, depende do aúdio livro em questão
+d. opnião negativa, pois é mais difícil de pesquisar contúdos usando aúdio livros
+d. opnião negativa, pois prefiro ler do que ouvir aúdio.
+
+9 - Você escuta música enquanto ler?
+a. Sim, sempre
+b. Às vezes
+c. Não
+
+10. Você acredita é bom ouvir música enquanto ler
+a. Sim, sempre
+b. Sim, mas apenas quando leio por lazer
+c. Sim, mas apenas quando leio por obrigação ou estudo
+d. Não, não consigo me concentrar na leitura
+e. Depende da música e da leitura.

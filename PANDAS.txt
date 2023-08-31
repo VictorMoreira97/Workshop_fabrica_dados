@@ -5,23 +5,23 @@ Opa, vamos lá, deixarei abaixo 3 cursos gratuitos que acho bem completos:
 • Fundamentos de Linguagem Python Para Análise de Dados e Data Science (72h) → Teoria e Muitaaa mão na massa: https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science
 
 • Power BI Para Business Intelligence e Data Science (72h) → Teoria e Muita mão na massa também: https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science 
-
+----------------------------------------------------------------------------------
 import pandas as pd
 	# apelidar a biblioteca, para facilitar na hora de codar
 
 vairavel = pd.DataFrame()
 	# DataFrace() -> uma tabela em Python
-
+----------------------------------------------------------------------------------
 dicionario = {
 	'key' = 'value'
 }
 variavel_df = pd.DataFrame(dicionario)
-
+----------------------------------------------------------------------------------
  - print()
  - display()
 	#vizualização de dados
 
-
+----------------------------------------------------------------------------------
 variael_df = pd.read_excel("ArqivoExcel.xlsx")
 display(variavel_df)
 	#importar aquivos de bases de dados
@@ -34,7 +34,7 @@ Vizualização de Dados simples e úteis
 display(variavel_df.head(1))
 print(vendas_df.shape)
 display(vendas_df.describe())
-
+----------------------------------------------------------------------------------
 .loc 
 
 - pegar uma linha 
@@ -55,7 +55,7 @@ variavel_df['Coluna_nova'] = variavel_df['Coluna_ja_existente'] + \ - \ * \ /
 variavel_df.loc[:. "Nome_da_coluna"] = anyValue
 diplay = (variavel_df)
 
-
+----------------------------------------------------------------------------------
 Adicionar 1 linha
 - Linhas de um complemento da base de dados
 
@@ -64,7 +64,7 @@ display(variavel_3_df)
 
 variave_df = variavel_df.append('variavel_3_df)
 display(variavel_df)
-
+----------------------------------------------------------------------------------
 Excluir linhas e colunas
 variavel_df = variavel_df.drop(0. axis=0)
 display(variavel_df)
@@ -78,7 +78,7 @@ variavel_df = variavel_df.dropna()
 
 # preencher com o último valor
 variavel_df = variavel_df.ffill()
-
+----------------------------------------------------------------------------------
 Calcular Indicadores
 - Groupby
 - Value Counts

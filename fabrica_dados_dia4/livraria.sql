@@ -1,6 +1,7 @@
 CREATE DATABASE livraria;
 USE livraria;
-
+-- 1- Crie 3 tabelas com 3-5 colunas, utilizando no mínimo 3 tipos diferentes de variáveis no
+-- total.
 CREATE TABLE livro(
 	preco FLOAT NOT NULL,
     codigoBarras INT PRIMARY KEY,
@@ -24,11 +25,11 @@ CREATE TABLE cliente (
     telefone VARCHAR(25),
     compras_realizadas INT
 );
-
+-- 2- Adicione uma nova coluna em cada tabela.
 ALTER TABLE livro ADD COLUMN titulo VARCHAR(50);
 ALTER TABLE funcionario ADD COLUMN genero VARCHAR(50);
 ALTER TABLE cliente ADD COLUMN genero VARCHAR(50);
-
+-- 3- Insira dados nas colunas de cada tabela (mínimo 3 registros em cada tabela).
 INSERT INTO livro VALUES 
 (49.99, 122456789, 'Pottermore Publishing', 'Fantasia', 100, 'Harry Potter e a Pedra Filosofal'),
 (35.90, 988654321, 'Haper Colins', 'Fantasia', 100, 'O Hobbit'),
@@ -48,10 +49,10 @@ INSERT INTO cliente VALUES
     ('Dawn', 10, '404.404.404-04', 87783890, 1, 'Fem');
     
 SELECT * FROM cliente;
-
+-- 4- Remova uma coluna de cada tabela.
 ALTER TABLE livro DROP COLUMN genero;
 ALTER TABLE cliente DROP COLUMN genero;
 ALTER TABLE cliente DROP COLUMN genero;
-
+-- 6- Mostre o conteúdo de cada tabela utilizando alguma condição específica.
 SELECT * from cliente WHERE genero = 'Masc';
 

@@ -1,0 +1,35 @@
+FUNÇÕES EXCEL
+
+-------------TEXTO-------------
+
+=CONCAT()      /  =CONCAT()
+=CONCATENATE() /  =CONCATENAR()
+=TEXTJOIN()    /  =UNIRTEXTO()
+=UPPER()       /  =PRIMAIÚSCULA()
+=LOWER()       /  =MINÚSCULA()
+=SUBSTITUTE()  /  =SUBSTITUIR()
+
+-------------EXTRAIR-------------
+
+=LEFT()        /  =ESQUERDA()
+=RIGTH()       /  =DIREITA()
+=MID()         /  =EXT.TEXTO()
+
+------------DATA-------------
+
+=EOMONTH()     /  =FIMMÊS()
+=EDATE()       /  =DATAM()
+=WORKDAY()     /  =DIATRABALHO()
+=NETWORKDAY()  /  =DIATRABALHOTOTAL()
+=YEARFRAC()    /  =FRAÇÃOANO()
+=ANO()         /  =YEAR()
+=MONTH()       /  =MÊS()
+=DIA()         /  =DAY()
+
+-------------REFERÊNCIA-------------
+
+=VLOOKUP()     /  =PROCV()
+=XLOOKUP()     /  =PROCX()
+=INDEX()       /  =ÍNDICE()
+=MATCH()       /  =CORRESP()
+=FIND()        /  =PROCURAR()
